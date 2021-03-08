@@ -1,5 +1,6 @@
 package com.haraj.myapplicationwithunittesting
 
+import android.util.Log
 import org.junit.Test
 
 import org.junit.Assert.*
